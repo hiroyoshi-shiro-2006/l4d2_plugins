@@ -1,0 +1,148 @@
+L 01/13/2024 - 02:39:01: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240113.log") (Version "1.11.0.6911")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/13/2024 - 02:39:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/13/2024 - 02:39:01: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/13/2024 - 02:39:08: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/13/2024 - 02:41:14: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:41:14: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:41:15: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:15: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:17: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:19: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:19: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:20: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:22: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:22: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:22: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:22: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:23: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:23: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:23: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:23: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:24: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:24: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:24: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:24: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:25: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:25: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:25: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:25: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:27: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:27: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:27: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:27: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:28: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:28: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:28: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:28: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:29: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:41:29: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:41:29: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:29: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:30: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:30: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:30: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:30: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:31: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:31: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:32: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:41:32: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:41:33: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:33: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:34: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:34: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:36: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:36: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:41:56: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:41:56: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:41:57: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:41:57: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:02: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:02: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:03: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:03: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:04: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:04: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:06: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:06: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:07: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:07: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:08: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:08: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:08: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:08: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:09: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:09: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:09: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:09: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:10: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:10: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:11: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:11: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:11: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:11: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:12: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:12: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:12: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:12: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:13: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:13: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:14: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:14: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:15: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:15: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:15: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:15: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:16: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:16: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:42:16: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:16: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:17: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:42:17: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:42:59: [BugFixes] WitchAttack created for client Ellis.
+L 01/13/2024 - 02:42:59: [BugFixes] WitchAttack char=3.
+L 01/13/2024 - 02:43:00: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:00: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:02: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:02: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:03: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:03: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:04: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:04: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:05: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:05: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:07: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:07: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:08: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:08: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:10: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:10: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:11: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:11: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:43:12: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/13/2024 - 02:43:12: [BugFixes] WitchAttack char=0.
+L 01/13/2024 - 02:44:14: Log file closed.

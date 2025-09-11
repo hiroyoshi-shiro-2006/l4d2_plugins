@@ -1,0 +1,134 @@
+L 01/07/2024 - 00:58:52: SourceMod error session started
+L 01/07/2024 - 00:58:52: Info (map "c1m1_hotel") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 00:58:52: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 00:58:54: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 01:03:04: Error log file session closed.
+L 01/07/2024 - 01:39:57: SourceMod error session started
+L 01/07/2024 - 01:39:57: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 01:39:57: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 01:39:58: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 01:39:58: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 01:39:58: [SM] Call stack trace:
+L 01/07/2024 - 01:39:58: [SM]   [0] SetFailState
+L 01/07/2024 - 01:39:58: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 01:39:58: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 01:39:58: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 01:43:04: Error log file session closed.
+L 01/07/2024 - 01:52:34: SourceMod error session started
+L 01/07/2024 - 01:52:34: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 01:52:34: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 01:52:34: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 01:52:34: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 01:52:34: [SM] Call stack trace:
+L 01/07/2024 - 01:52:34: [SM]   [0] SetFailState
+L 01/07/2024 - 01:52:34: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 01:52:34: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 01:52:34: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 01:54:12: Error log file session closed.
+L 01/07/2024 - 02:00:47: SourceMod error session started
+L 01/07/2024 - 02:00:47: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 02:00:47: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 02:00:47: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 02:00:47: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 02:00:47: [SM] Call stack trace:
+L 01/07/2024 - 02:00:47: [SM]   [0] SetFailState
+L 01/07/2024 - 02:00:47: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 02:00:47: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 02:00:47: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 02:02:44: Error log file session closed.
+L 01/07/2024 - 02:57:10: SourceMod error session started
+L 01/07/2024 - 02:57:10: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 02:57:10: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 02:57:11: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 02:57:11: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 02:57:11: [SM] Call stack trace:
+L 01/07/2024 - 02:57:11: [SM]   [0] SetFailState
+L 01/07/2024 - 02:57:11: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 02:57:11: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 02:57:11: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 03:00:57: Error log file session closed.
+L 01/07/2024 - 03:12:21: SourceMod error session started
+L 01/07/2024 - 03:12:21: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 03:12:21: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 03:12:21: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 03:12:21: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 03:12:21: [SM] Call stack trace:
+L 01/07/2024 - 03:12:21: [SM]   [0] SetFailState
+L 01/07/2024 - 03:12:21: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 03:12:21: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 03:12:21: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 03:20:46: Error log file session closed.
+L 01/07/2024 - 03:27:01: SourceMod error session started
+L 01/07/2024 - 03:27:01: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 03:27:01: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 03:27:01: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 03:27:01: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 03:27:01: [SM] Call stack trace:
+L 01/07/2024 - 03:27:01: [SM]   [0] SetFailState
+L 01/07/2024 - 03:27:01: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 03:27:01: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 03:27:01: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 03:35:19: Error log file session closed.
+L 01/07/2024 - 03:41:34: SourceMod error session started
+L 01/07/2024 - 03:41:34: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 03:41:34: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 03:41:34: [SM] Error parsing gameconfig file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\gamedata\l4drespawn.txt":
+L 01/07/2024 - 03:41:34: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/07/2024 - 03:41:34: [SM] Exception reported: Unable to open l4drespawn: File could not be opened: The system cannot find the file specified.
+
+L 01/07/2024 - 03:41:34: [SM] Blaming: L4D2 Survivor Respawning.smx
+L 01/07/2024 - 03:41:34: [SM] Call stack trace:
+L 01/07/2024 - 03:41:34: [SM]   [0] LoadGameConfigFile
+L 01/07/2024 - 03:41:35: [SM]   [1] Line 86, /home/forums/content/files/7/0/1/7/8/130314.attach::OnPluginStart
+L 01/07/2024 - 03:41:35: [SM] Unable to load plugin "L4D2 Survivor Respawning.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 03:41:35: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 03:41:35: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 03:41:35: [SM] Call stack trace:
+L 01/07/2024 - 03:41:35: [SM]   [0] SetFailState
+L 01/07/2024 - 03:41:35: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 03:41:35: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 03:41:35: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 03:44:31: Error log file session closed.
+L 01/07/2024 - 03:55:54: SourceMod error session started
+L 01/07/2024 - 03:55:54: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240107.log")
+L 01/07/2024 - 03:55:54: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 01/07/2024 - 03:55:54: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/07/2024 - 03:55:54: [SM] Blaming: l4d2_melee_range.smx
+L 01/07/2024 - 03:55:54: [SM] Call stack trace:
+L 01/07/2024 - 03:55:54: [SM]   [0] SetFailState
+L 01/07/2024 - 03:55:54: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/07/2024 - 03:55:54: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/07/2024 - 03:55:54: [SM] Unable to load plugin "l4dmultislots.smx": Native "NextBotCreatePlayerBotSurvivorBot" was not found
+L 01/07/2024 - 03:59:33: Error log file session closed.

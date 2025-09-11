@@ -1,0 +1,214 @@
+L 01/10/2024 - 00:00:28: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 00:00:28: Log file closed.
+L 01/10/2024 - 00:13:17: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 00:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 00:13:27: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 00:16:04: Log file closed.
+L 01/10/2024 - 00:23:34: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 00:23:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 00:23:44: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 00:26:42: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:42: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:43: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:43: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:45: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:45: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:47: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:47: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:48: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:48: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:50: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:50: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:26:51: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:26:51: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 00:28:20: Log file closed.
+L 01/10/2024 - 00:32:21: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 00:32:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 00:32:31: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 00:34:09: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:34:09: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 00:34:13: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 00:34:13: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 00:34:46: Log file closed.
+L 01/10/2024 - 00:38:10: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 00:38:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 00:38:20: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 00:39:44: Log file closed.
+L 01/10/2024 - 22:37:30: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 22:37:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 22:37:42: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 22:42:44: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:44: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:45: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:45: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:47: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:47: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:48: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:48: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:51: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:51: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:53: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:53: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:54: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:54: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:56: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:56: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:57: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:57: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:42:58: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:42:58: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:00: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:00: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:01: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:01: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:16: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:16: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:16: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:16: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:17: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:17: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:19: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:19: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:20: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:20: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:21: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:21: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:23: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:23: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:38: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:38: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:39: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:39: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:43:50: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 22:43:50: [BugFixes] WitchAttack char=0.
+L 01/10/2024 - 22:44:41: Log file closed.
+L 01/10/2024 - 22:53:33: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 22:53:33: -------- Mapchange to tumtara --------
+L 01/10/2024 - 22:54:17: -------- Mapchange to tumtara --------
+L 01/10/2024 - 22:54:25: Log file closed.
+L 01/10/2024 - 22:57:03: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 22:57:03: -------- Mapchange to c1m1_hotel --------
+L 01/10/2024 - 22:57:13: Log file closed.
+L 01/10/2024 - 23:05:17: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 23:05:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 23:05:27: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 23:06:06: Log file closed.
+L 01/10/2024 - 23:32:53: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 23:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 23:33:04: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 23:36:23: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:36:23: [BugFixes] WitchAttack char=1.
+L 01/10/2024 - 23:36:23: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:36:23: [BugFixes] WitchAttack char=1.
+L 01/10/2024 - 23:36:32: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:36:32: [BugFixes] WitchAttack char=1.
+L 01/10/2024 - 23:36:32: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:36:32: [BugFixes] WitchAttack char=1.
+L 01/10/2024 - 23:37:27: Log file closed.
+L 01/10/2024 - 23:42:43: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 23:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 23:42:54: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 23:43:46: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:46: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:46: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:46: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:47: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:47: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:47: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:47: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:48: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:48: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:48: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:48: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:49: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:49: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:50: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:50: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:43:52: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:43:52: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:47:25: Log file closed.
+L 01/10/2024 - 23:53:53: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240110.log") (Version "1.11.0.6911")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/10/2024 - 23:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/10/2024 - 23:54:04: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/10/2024 - 23:55:54: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:54: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:54: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:54: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:55: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:55: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:55: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:55: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:56: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:56: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:56: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:56: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:58: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:58: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:55:59: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:55:59: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:56:00: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/10/2024 - 23:56:00: [BugFixes] WitchAttack char=3.
+L 01/10/2024 - 23:57:17: Log file closed.

@@ -1,0 +1,52 @@
+L 01/08/2024 - 21:24:12: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240108.log") (Version "1.12.0.7101")
+L 01/08/2024 - 21:24:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/08/2024 - 21:24:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/08/2024 - 21:24:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/08/2024 - 21:24:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/08/2024 - 21:24:23: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/08/2024 - 21:30:54: Log file closed.
+L 01/08/2024 - 21:39:50: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240108.log") (Version "1.12.0.7101")
+L 01/08/2024 - 21:39:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/08/2024 - 21:39:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/08/2024 - 21:39:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/08/2024 - 21:39:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/08/2024 - 21:39:53: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/08/2024 - 21:52:37: -------- Mapchange to c2m2_fairgrounds --------
+L 01/08/2024 - 21:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/08/2024 - 21:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/08/2024 - 21:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/08/2024 - 21:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/08/2024 - 22:03:11: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240108.log") (Version "1.11.0.6911")
+L 01/08/2024 - 22:03:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/08/2024 - 22:03:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/08/2024 - 22:03:12: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/08/2024 - 22:03:15: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/08/2024 - 22:09:23: [BugFixes] WitchAttack created for client thaihaodn.
+L 01/08/2024 - 22:09:23: [BugFixes] WitchAttack char=3.
+L 01/08/2024 - 22:09:23: [BugFixes] WitchAttack created for client thaihaodn.
+L 01/08/2024 - 22:09:23: [BugFixes] WitchAttack char=3.
+L 01/08/2024 - 22:12:25: [BugFixes] WitchAttack created for client QuocanhOwO.
+L 01/08/2024 - 22:12:25: [BugFixes] WitchAttack char=2.
+L 01/08/2024 - 22:14:32: -------- Mapchange to c2m3_coaster --------
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/08/2024 - 22:14:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")

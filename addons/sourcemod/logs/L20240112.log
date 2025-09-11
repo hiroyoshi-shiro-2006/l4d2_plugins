@@ -1,0 +1,71 @@
+L 01/12/2024 - 19:55:35: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240112.log") (Version "1.11.0.6911")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/12/2024 - 19:55:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/12/2024 - 19:55:36: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/12/2024 - 19:55:47: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/12/2024 - 19:56:16: Log file closed.
+L 01/12/2024 - 19:59:08: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240112.log") (Version "1.11.0.6911")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/12/2024 - 19:59:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/12/2024 - 19:59:18: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/12/2024 - 20:00:37: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:37: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:00:39: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:39: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:00:40: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:40: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:00:43: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:43: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:00:44: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:44: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:00:46: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:00:46: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:03:47: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:03:47: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:03:48: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:03:48: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:06:25: Log file closed.
+L 01/12/2024 - 20:28:11: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240112.log") (Version "1.11.0.6911")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/12/2024 - 20:28:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/12/2024 - 20:28:11: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/12/2024 - 20:28:20: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/12/2024 - 20:29:36: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:29:36: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:29:36: [BugFixes] WitchAttack created for client [CZ].Spector.
+L 01/12/2024 - 20:29:36: [BugFixes] WitchAttack char=0.
+L 01/12/2024 - 20:30:09: Log file closed.

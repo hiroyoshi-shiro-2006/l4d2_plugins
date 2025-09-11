@@ -1,0 +1,91 @@
+L 09/11/2025 - 07:31:44: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 07:31:44: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 07:31:44: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 07:31:44: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 07:31:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 07:31:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 07:31:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 07:31:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.dod.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2mp.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.cstrike.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.bms.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.tf2classic.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 09/11/2025 - 07:31:49: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 09/11/2025 - 07:31:52: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 07:34:37: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 07:34:37: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 07:34:37: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 07:34:37: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 07:34:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 07:34:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 07:34:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 07:34:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 07:34:44: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 07:48:22: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 07:48:22: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 07:48:22: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 07:48:22: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 07:48:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 07:48:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 07:48:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 07:48:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 07:48:30: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 07:52:25: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 07:52:25: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 07:52:25: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 07:52:25: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 07:52:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 07:52:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 07:52:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 07:52:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 07:52:33: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 08:00:32: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 08:00:32: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 08:00:32: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 08:00:32: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 08:00:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 08:00:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 08:00:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 08:00:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 08:00:40: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 08:30:36: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 08:30:36: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 08:30:36: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 08:30:36: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 08:30:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 08:30:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 08:30:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 08:30:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 08:30:44: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 08:34:33: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 08:34:33: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 08:34:33: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 08:34:33: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/11/2025 - 08:34:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/11/2025 - 08:34:42: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 09/11/2025 - 08:40:19: SourceMod log file session started (file "d:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250911.log") (Version "1.12.0.7198")
+L 09/11/2025 - 08:40:19: [perkmod2.smx] L4D 2 detected.
+L 09/11/2025 - 08:40:19: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 09/11/2025 - 08:40:19: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/11/2025 - 08:40:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/11/2025 - 08:40:27: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded

@@ -1,0 +1,292 @@
+L 01/14/2024 - 18:34:35: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 18:34:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 18:34:42: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 18:37:48: Log file closed.
+L 01/14/2024 - 18:53:03: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 18:53:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 18:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 18:53:10: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 18:55:32: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:32: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:33: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:33: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:34: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:35: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:35: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:35: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:35: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:36: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:36: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:38: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:38: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:39: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:39: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:55:40: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 18:55:40: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 18:56:34: Log file closed.
+L 01/14/2024 - 19:07:04: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:07:11: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:08:07: Log file closed.
+L 01/14/2024 - 19:10:01: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:10:08: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:11:28: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:11:28: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:11:46: Log file closed.
+L 01/14/2024 - 19:17:06: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:17:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:17:12: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:19:35: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:35: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:19:36: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:36: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:19:37: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:37: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:19:38: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:38: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:19:50: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:50: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:19:52: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:19:52: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:07: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:07: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:09: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:09: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:10: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:10: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:27: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:27: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:28: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:28: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:29: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:29: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:31: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:31: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:32: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:32: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:35: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:35: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:20:36: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:20:36: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:37:52: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:37:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:38:00: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:38:58: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:38:58: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:38:59: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 19:38:59: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 19:39:10: Log file closed.
+L 01/14/2024 - 19:45:48: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:45:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:45:54: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:46:54: Log file closed.
+L 01/14/2024 - 19:50:42: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:50:48: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 19:51:58: Log file closed.
+L 01/14/2024 - 19:59:03: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 19:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 19:59:10: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 20:01:39: Log file closed.
+L 01/14/2024 - 20:06:29: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 20:06:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 20:06:36: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 20:08:27: Log file closed.
+L 01/14/2024 - 20:15:26: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 20:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 20:15:33: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 20:16:47: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:47: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:47: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:47: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:48: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:49: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:49: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:16:50: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:16:50: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:17:09: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:17:09: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:17:10: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:17:10: [BugFixes] WitchAttack char=2.
+L 01/14/2024 - 20:18:14: Log file closed.
+L 01/14/2024 - 20:36:39: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240114.log") (Version "1.11.0.6911")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/14/2024 - 20:36:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/14/2024 - 20:36:39: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/14/2024 - 20:36:46: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/14/2024 - 20:37:45: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:37:45: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:37:46: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:37:46: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:38: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:38: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:38: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:38: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:40: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:40: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:40: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:40: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:53: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:53: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:53: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:53: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:55: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:57: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:57: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:57: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:57: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:58: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:58: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:38:59: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:38:59: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:15: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:15: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:15: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:15: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:16: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:16: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:16: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:16: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:17: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:17: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:17: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:17: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:19: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:19: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:19: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:19: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:20: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:20: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:20: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:20: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:39:21: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:39:21: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:41:46: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:41:46: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:41:50: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:41:50: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:08: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:08: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:10: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:10: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:11: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:11: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:13: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:13: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:15: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:15: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:42:16: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:42:16: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:43:31: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:43:31: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:43:31: [BugFixes] WitchAttack created for client [CZ].TheDeathBringer.
+L 01/14/2024 - 20:43:31: [BugFixes] WitchAttack char=0.
+L 01/14/2024 - 20:45:43: Log file closed.

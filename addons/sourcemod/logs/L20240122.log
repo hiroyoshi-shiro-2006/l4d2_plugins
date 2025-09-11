@@ -1,0 +1,578 @@
+L 01/22/2024 - 22:00:10: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 22:00:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 01/22/2024 - 22:00:10: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/22/2024 - 22:00:18: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 22:00:49: Log file closed.
+L 01/22/2024 - 22:10:46: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 22:10:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 22:10:53: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 22:13:18: Log file closed.
+L 01/22/2024 - 22:19:23: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 22:19:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 22:19:31: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 22:39:55: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 22:39:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 22:40:03: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 22:46:44: Log file closed.
+L 01/22/2024 - 23:02:21: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 23:02:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 23:02:28: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 23:03:19: Log file closed.
+L 01/22/2024 - 23:07:28: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 23:07:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 23:07:35: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 23:09:19: Log file closed.
+L 01/22/2024 - 23:14:41: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 23:14:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 23:14:48: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 23:15:06: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:06: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:07: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:09: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:09: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:09: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:09: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:10: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:10: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:10: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:10: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:12: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:12: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:12: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:12: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:19: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:19: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:19: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:19: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:24: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:24: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:24: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:24: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:30: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:30: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:32: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:32: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:33: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:33: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:34: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:34: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:34: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:34: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:36: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:36: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:36: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:36: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:39: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:39: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:39: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:39: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:40: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:40: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:40: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:40: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:42: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:42: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:42: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:42: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:43: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:43: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:43: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:43: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:45: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:45: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:45: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:45: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:46: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:46: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:46: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:46: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:50: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:50: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:50: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:50: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:51: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:51: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:51: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:51: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:52: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:52: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:52: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:52: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:54: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:54: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:54: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:54: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:15:55: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:00: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:00: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:00: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:00: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:01: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:01: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:01: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:01: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:02: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:02: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:02: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:02: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:04: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:04: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:04: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:04: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:05: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:07: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:07: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:12: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:12: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:16: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:16: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:16: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:16: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:17: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:17: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:19: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:19: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:21: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:21: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:21: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:21: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:26: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:26: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:26: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:26: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:27: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:27: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:16:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:16:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:17:37: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:17:37: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:17:38: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:17:38: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:17:38: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:17:38: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:17:39: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:17:39: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:21: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:21: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:26: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:26: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:26: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:26: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:27: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:27: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:28: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:28: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:28: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:28: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:18:30: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:17: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:18: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:18: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:20:18: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:20:18: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:07: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:07: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:08: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:08: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:08: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:08: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:09: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:09: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:09: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:09: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:11: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:12: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:12: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:12: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:12: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:13: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:13: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:14: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:14: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:15: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:15: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:17: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:17: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:18: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:18: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:18: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:18: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack created for client Ellis.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack char=3.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack created for client Ellis.
+L 01/22/2024 - 23:22:20: [BugFixes] WitchAttack char=3.
+L 01/22/2024 - 23:22:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:22: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:22: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:23: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:24: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:24: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:24: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:24: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:25: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:25: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:29: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:31: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:31: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:32: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:32: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:33: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:33: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:35: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:22:48: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:22:48: [BugFixes] WitchAttack char=2.
+L 01/22/2024 - 23:24:07: Log file closed.
+L 01/22/2024 - 23:37:19: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240122.log") (Version "1.11.0.6911")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 01/22/2024 - 23:37:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 01/22/2024 - 23:37:26: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 01/22/2024 - 23:40:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:40:17: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:40:17: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:40:17: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:40:19: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:40:19: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:40:19: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:40:19: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:40:23: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:40:23: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:27: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:28: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:28: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:29: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:29: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:30: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:30: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:31: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:31: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:32: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:32: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:32: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:34: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:34: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:34: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:34: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:35: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:35: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:36: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:36: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:36: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:36: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:37: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:37: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:37: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:37: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:38: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:38: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:38: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:38: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:39: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:39: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:39: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:39: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:41: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:41: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:41: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:41: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:42: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:42: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:42: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:42: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:44: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:44: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:44: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:44: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:45: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:45: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:45: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:45: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:46: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:46: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:42:46: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:42:46: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:07: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:07: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:08: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:08: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:08: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:08: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:09: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:09: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:10: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:10: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:10: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:10: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:11: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:11: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:11: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:27: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:27: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:27: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:28: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:28: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:28: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:28: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:29: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:29: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:30: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:30: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:30: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:31: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:31: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:31: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:33: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:33: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:33: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:34: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:34: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:35: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:35: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:37: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:37: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:38: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:38: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:44:40: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:44:40: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:45:29: [BugFixes] WitchAttack created for client [CZ].HellSpectral.
+L 01/22/2024 - 23:45:29: [BugFixes] WitchAttack char=0.
+L 01/22/2024 - 23:50:13: Log file closed.

@@ -1,0 +1,120 @@
+L 02/19/2024 - 19:29:11: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240219.log") (Version "1.11.0.6911")
+L 02/19/2024 - 19:29:11: [perkmod2.smx] L4D 2 detected.
+L 02/19/2024 - 19:29:11: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/19/2024 - 19:29:11: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/19/2024 - 19:29:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/19/2024 - 19:29:37: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 02/19/2024 - 19:32:07: Log file closed.
+L 02/19/2024 - 19:37:37: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240219.log") (Version "1.11.0.6911")
+L 02/19/2024 - 19:37:37: [perkmod2.smx] L4D 2 detected.
+L 02/19/2024 - 19:37:37: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/19/2024 - 19:37:37: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/19/2024 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/19/2024 - 19:37:57: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 02/19/2024 - 19:39:03: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:39:03: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:40:04: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:40:04: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:40:05: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:40:05: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:40:11: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:40:11: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:40:14: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:40:14: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:40:51: Log file closed.
+L 02/19/2024 - 19:42:48: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240219.log") (Version "1.11.0.6911")
+L 02/19/2024 - 19:42:48: [perkmod2.smx] L4D 2 detected.
+L 02/19/2024 - 19:42:48: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/19/2024 - 19:42:48: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/19/2024 - 19:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/19/2024 - 19:43:07: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 02/19/2024 - 19:44:06: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:06: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:09: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:09: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:27: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:27: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:30: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:30: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:46: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:46: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:46: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:46: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:47: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:47: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:44:47: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:44:47: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:26: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:26: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:26: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:26: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:27: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:27: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:27: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:27: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:28: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:28: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:28: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:28: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:45:47: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 19:45:47: [BugFixes] WitchAttack char=0.
+L 02/19/2024 - 19:46:01: Log file closed.
+L 02/19/2024 - 19:58:17: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240219.log") (Version "1.11.0.6911")
+L 02/19/2024 - 19:58:17: [perkmod2.smx] L4D 2 detected.
+L 02/19/2024 - 19:58:17: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/19/2024 - 19:58:17: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/19/2024 - 19:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/19/2024 - 19:58:37: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 02/19/2024 - 20:00:19: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 20:00:19: [BugFixes] WitchAttack char=3.
+L 02/19/2024 - 20:00:19: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 20:00:19: [BugFixes] WitchAttack char=3.
+L 02/19/2024 - 20:01:55: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 20:01:55: [BugFixes] WitchAttack char=3.
+L 02/19/2024 - 20:02:26: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 20:02:26: [BugFixes] WitchAttack char=3.
+L 02/19/2024 - 20:02:26: [BugFixes] WitchAttack created for client [CZ].Chronos.
+L 02/19/2024 - 20:02:26: [BugFixes] WitchAttack char=3.
+L 02/19/2024 - 20:02:44: Log file closed.
+L 02/19/2024 - 20:16:07: SourceMod log file session started (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20240219.log") (Version "1.11.0.6911")
+L 02/19/2024 - 20:16:07: [perkmod2.smx] L4D 2 detected.
+L 02/19/2024 - 20:16:07: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/19/2024 - 20:16:07: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "precache_all_survivors") (value "1")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0.01")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0.01")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0.01")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/19/2024 - 20:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/19/2024 - 20:16:27: [L4D2 HP Regeneration.smx] [HpRegeneration] - Loaded
+L 02/19/2024 - 20:21:07: Log file closed.

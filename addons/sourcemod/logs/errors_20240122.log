@@ -1,0 +1,334 @@
+L 01/22/2024 - 21:59:58: SourceMod error session started
+L 01/22/2024 - 21:59:58: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 21:59:58: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 21:59:59: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 21:59:59: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 22:00:00: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 22:00:00: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 22:00:00: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 22:00:00: [SM] Call stack trace:
+L 01/22/2024 - 22:00:00: [SM]   [0] SetFailState
+L 01/22/2024 - 22:00:00: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 22:00:00: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 22:00:09: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 22:00:09: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:00:09: [SM] Call stack trace:
+L 01/22/2024 - 22:00:09: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 22:00:09: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 22:00:09: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 22:00:09: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 22:00:21: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 22:00:21: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:00:21: [SM] Call stack trace:
+L 01/22/2024 - 22:00:21: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 22:00:21: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 22:00:21: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 22:00:21: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 22:00:49: Error log file session closed.
+L 01/22/2024 - 22:10:40: SourceMod error session started
+L 01/22/2024 - 22:10:40: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 22:10:40: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:10:40: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:10:40: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 22:10:40: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 22:10:40: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 22:10:40: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 22:10:40: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 22:10:40: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 22:10:40: [SM] Call stack trace:
+L 01/22/2024 - 22:10:40: [SM]   [0] SetFailState
+L 01/22/2024 - 22:10:40: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 22:10:40: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 22:10:46: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 22:10:46: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:10:46: [SM] Call stack trace:
+L 01/22/2024 - 22:10:46: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 22:10:46: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 22:10:46: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 22:10:46: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 22:10:56: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 22:10:56: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:10:56: [SM] Call stack trace:
+L 01/22/2024 - 22:10:56: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 22:10:56: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 22:10:56: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 22:10:56: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 22:13:18: Error log file session closed.
+L 01/22/2024 - 22:19:18: SourceMod error session started
+L 01/22/2024 - 22:19:18: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 22:19:18: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:19:18: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:19:18: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 22:19:18: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 22:19:18: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 22:19:18: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 22:19:18: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 22:19:18: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 22:19:18: [SM] Call stack trace:
+L 01/22/2024 - 22:19:18: [SM]   [0] SetFailState
+L 01/22/2024 - 22:19:18: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 22:19:18: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 22:19:23: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 22:19:23: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:19:23: [SM] Call stack trace:
+L 01/22/2024 - 22:19:23: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 22:19:23: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 22:19:23: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 22:19:23: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 22:19:34: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 22:19:34: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:19:34: [SM] Call stack trace:
+L 01/22/2024 - 22:19:34: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 22:19:34: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 22:19:34: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 22:19:34: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 22:39:49: SourceMod error session started
+L 01/22/2024 - 22:39:49: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 22:39:49: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:39:49: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 22:39:49: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 22:39:49: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 22:39:49: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 22:39:49: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 22:39:49: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 22:39:49: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 22:39:50: [SM] Call stack trace:
+L 01/22/2024 - 22:39:50: [SM]   [0] SetFailState
+L 01/22/2024 - 22:39:50: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 22:39:50: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 22:39:55: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 22:39:55: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:39:55: [SM] Call stack trace:
+L 01/22/2024 - 22:39:55: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 22:39:55: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 22:39:55: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 22:39:55: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 22:40:06: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 22:40:06: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 22:40:06: [SM] Call stack trace:
+L 01/22/2024 - 22:40:06: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 22:40:06: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 22:40:06: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 22:40:06: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 22:43:03: [SM] Exception reported: Property "m_strMapSetScriptName" not found (entity 447/weapon_chainsaw)
+L 01/22/2024 - 22:43:03: [SM] Blaming: l4d2_ty_saveweapon_4.smx
+L 01/22/2024 - 22:43:03: [SM] Call stack trace:
+L 01/22/2024 - 22:43:03: [SM]   [0] GetEntPropString
+L 01/22/2024 - 22:43:03: [SM]   [1] Line 470, /home/forums/content/files/1/6/4/8/0/1/196278.attach::Event_ItemPickup
+L 01/22/2024 - 22:46:44: Error log file session closed.
+L 01/22/2024 - 23:02:16: SourceMod error session started
+L 01/22/2024 - 23:02:16: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 23:02:16: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:02:16: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:02:16: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 23:02:16: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 23:02:16: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 23:02:16: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 23:02:16: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 23:02:16: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 23:02:16: [SM] Call stack trace:
+L 01/22/2024 - 23:02:16: [SM]   [0] SetFailState
+L 01/22/2024 - 23:02:16: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 23:02:16: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 23:02:21: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 23:02:21: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:02:21: [SM] Call stack trace:
+L 01/22/2024 - 23:02:21: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 23:02:21: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 23:02:21: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 23:02:21: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 23:02:31: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 23:02:31: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:02:31: [SM] Call stack trace:
+L 01/22/2024 - 23:02:31: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 23:02:31: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 23:02:31: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 23:02:31: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 23:03:19: Error log file session closed.
+L 01/22/2024 - 23:07:23: SourceMod error session started
+L 01/22/2024 - 23:07:23: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 23:07:23: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:07:23: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:07:23: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 23:07:23: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 23:07:23: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 23:07:23: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 23:07:23: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 23:07:23: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 23:07:23: [SM] Call stack trace:
+L 01/22/2024 - 23:07:23: [SM]   [0] SetFailState
+L 01/22/2024 - 23:07:23: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 23:07:23: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 23:07:28: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 23:07:28: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:07:28: [SM] Call stack trace:
+L 01/22/2024 - 23:07:28: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 23:07:28: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 23:07:28: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 23:07:28: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 23:07:38: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 23:07:38: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:07:38: [SM] Call stack trace:
+L 01/22/2024 - 23:07:38: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 23:07:38: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 23:07:38: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 23:07:38: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 23:09:19: Error log file session closed.
+L 01/22/2024 - 23:14:35: SourceMod error session started
+L 01/22/2024 - 23:14:35: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 23:14:35: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:14:35: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:14:36: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 23:14:36: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 23:14:36: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 23:14:36: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 23:14:36: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 23:14:36: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 23:14:36: [SM] Call stack trace:
+L 01/22/2024 - 23:14:36: [SM]   [0] SetFailState
+L 01/22/2024 - 23:14:36: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 23:14:36: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 23:14:41: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 23:14:41: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:14:41: [SM] Call stack trace:
+L 01/22/2024 - 23:14:41: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 23:14:41: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 23:14:41: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 23:14:41: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 23:14:51: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 23:14:51: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:14:51: [SM] Call stack trace:
+L 01/22/2024 - 23:14:51: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 23:14:52: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 23:14:52: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 23:14:52: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 23:24:07: Error log file session closed.
+L 01/22/2024 - 23:37:14: SourceMod error session started
+L 01/22/2024 - 23:37:14: Info (map "tumtara") (file "e:\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20240122.log")
+L 01/22/2024 - 23:37:14: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:37:14: [SM] Unable to load extension "left4downtown.ext": The specified module could not be found.
+
+L 01/22/2024 - 23:37:14: [SM] Failed to load plugin "nextmap.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 01/22/2024 - 23:37:14: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 01/22/2024 - 23:37:14: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 01/22/2024 - 23:37:14: [SM] Unable to load plugin "grenade_throwing_bots-l4d2.smx": Required extension "Left 4 Downtown" file("left4downtown.ext") not running
+L 01/22/2024 - 23:37:14: [SM] Exception reported: 
+==========
+Missing required file: "addons\sourcemod\gamedata\l4d2_melee_range.txt".
+Read installation instructions again.
+==========
+L 01/22/2024 - 23:37:14: [SM] Blaming: l4d2_melee_range.smx
+L 01/22/2024 - 23:37:14: [SM] Call stack trace:
+L 01/22/2024 - 23:37:14: [SM]   [0] SetFailState
+L 01/22/2024 - 23:37:14: [SM]   [1] Line 125, /home/forums/content/files/8/5/7/7/8/177585.attach::OnPluginStart
+L 01/22/2024 - 23:37:14: [SM] Unable to load plugin "l4d2_melee_range.smx": Error detected in plugin startup (see error logs)
+L 01/22/2024 - 23:37:19: [SM] Exception reported: Function signature "L4DD::CTerrorPlayer::OnIncapacitatedAsSurvivor" was not found.
+L 01/22/2024 - 23:37:19: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:37:19: [SM] Call stack trace:
+L 01/22/2024 - 23:37:19: [SM]   [0] DynamicDetour.FromConf
+L 01/22/2024 - 23:37:19: [SM]   [1] Line 595, l4dd\l4dd_forwards.sp::CreateDetour
+L 01/22/2024 - 23:37:19: [SM]   [2] Line 405, l4dd\l4dd_forwards.sp::SetupDetours
+L 01/22/2024 - 23:37:19: [SM]   [3] Line 1438, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::OnMapStart
+L 01/22/2024 - 23:37:29: [SM] Exception reported: 
+==========
+Native 'L4D2_IsRealismMode' should not be used before OnMapStart, please report to 3rd party plugin author.
+==========
+L 01/22/2024 - 23:37:29: [SM] Blaming: left4dhooks.smx
+L 01/22/2024 - 23:37:29: [SM] Call stack trace:
+L 01/22/2024 - 23:37:29: [SM]   [0] ThrowNativeError
+L 01/22/2024 - 23:37:29: [SM]   [1] Line 900, C:\Servers\L4D2\left4dead2\addons\sourcemod\scripting\left4dhooks.sp::Native_Internal_IsRealismMode
+L 01/22/2024 - 23:37:29: [SM]   [3] L4D2_IsRealismMode
+L 01/22/2024 - 23:37:29: [SM]   [4] Line 889, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_PluginStart
+L 01/22/2024 - 23:42:56: [SM] Exception reported: Property "m_strMapSetScriptName" not found (entity 462/weapon_pistol)
+L 01/22/2024 - 23:42:56: [SM] Blaming: l4d2_ty_saveweapon_4.smx
+L 01/22/2024 - 23:42:56: [SM] Call stack trace:
+L 01/22/2024 - 23:42:56: [SM]   [0] GetEntPropString
+L 01/22/2024 - 23:42:56: [SM]   [1] Line 470, /home/forums/content/files/1/6/4/8/0/1/196278.attach::Event_ItemPickup
+L 01/22/2024 - 23:50:13: Error log file session closed.
